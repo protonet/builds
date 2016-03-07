@@ -1,1 +1,1 @@
-Nothing relevant to say here, sorry!
+Just static versioning information for [Protonet Soul](https://protonet.info)
