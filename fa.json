@@ -1,0 +1,38 @@
+[
+  {
+    "build": 9000,
+    "codename": "Development Alpha",
+    "url": "https://support.protonet.info/de/news/soul-2-11-1/",
+    "published_at":"2016-03-07T09:34:04Z",
+    "images": {
+      "quay.io/experimentalplatform/skvs": "development",
+      "quay.io/experimentalplatform/ptw": "development",
+      "quay.io/experimentalplatform/afpd": "development",
+      "quay.io/experimentalplatform/http-proxy": "development",
+      "quay.io/experimentalplatform/hostname-avahi": "development",
+      "quay.io/experimentalplatform/hardware": "development",
+      "quay.io/experimentalplatform/systemd-proxy": "development",
+      "quay.io/experimentalplatform/smb": "development",
+      "quay.io/experimentalplatform/pulseaudio": "development",
+      "quay.io/experimentalplatform/haproxy": "development",
+      "quay.io/experimentalplatform/hostname-smb": "development",
+      "quay.io/experimentalplatform/hostapd": "development",
+      "quay.io/experimentalplatform/app-manager": "development",
+      "quay.io/experimentalplatform/central-gateway": "development",
+      "quay.io/experimentalplatform/dnsmasq": "development",
+      "quay.io/experimentalplatform/dokku": "development",
+      "quay.io/experimentalplatform/frontend": "development",
+      "quay.io/experimentalplatform/monitoring": "development",
+      "quay.io/experimentalplatform/configure": "development",
+      "quay.io/experimentalplatform/mysql": "development",
+      "quay.io/experimentalplatform/elasticsearch": "development",
+      "quay.io/experimentalplatform/redis": "development",
+      "quay.io/experimentalplatform/rabbitmq": "development",
+      "quay.io/protonetinc/german-shepherd": "development",
+      "quay.io/protonetinc/soul-backup": "fa-integrate-bin",
+      "quay.io/protonetinc/soul-nginx": "development",
+      "quay.io/protonetinc/soul-protosync": "development",
+      "quay.io/protonetinc/soul-smb": "development"
+    }
+  }
+]
