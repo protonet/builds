@@ -1,0 +1,38 @@
+[
+  {
+    "build": 9000,
+    "codename": "Candidate",
+    "url": "https://support.protonet.info/de/news/soul-2-11-1/",
+    "published_at":"2016-03-07T09:34:04Z",
+    "images": {
+      "quay.io/experimentalplatform/skvs": "candidate",
+      "quay.io/experimentalplatform/ptw": "candidate",
+      "quay.io/experimentalplatform/afpd": "candidate",
+      "quay.io/experimentalplatform/http-proxy": "candidate",
+      "quay.io/experimentalplatform/hostname-avahi": "candidate",
+      "quay.io/experimentalplatform/hardware": "candidate",
+      "quay.io/experimentalplatform/systemd-proxy": "candidate",
+      "quay.io/experimentalplatform/smb": "candidate",
+      "quay.io/experimentalplatform/pulseaudio": "candidate",
+      "quay.io/experimentalplatform/haproxy": "candidate",
+      "quay.io/experimentalplatform/hostname-smb": "candidate",
+      "quay.io/experimentalplatform/hostapd": "candidate",
+      "quay.io/experimentalplatform/app-manager": "candidate",
+      "quay.io/experimentalplatform/central-gateway": "candidate",
+      "quay.io/experimentalplatform/dnsmasq": "candidate",
+      "quay.io/experimentalplatform/dokku": "candidate",
+      "quay.io/experimentalplatform/frontend": "candidate",
+      "quay.io/experimentalplatform/monitoring": "candidate",
+      "quay.io/experimentalplatform/configure": "candidate",
+      "quay.io/experimentalplatform/mysql": "candidate",
+      "quay.io/experimentalplatform/elasticsearch": "candidate",
+      "quay.io/experimentalplatform/redis": "candidate",
+      "quay.io/experimentalplatform/rabbitmq": "candidate",
+      "quay.io/protonetinc/german-shepherd": "candidate",
+      "quay.io/protonetinc/soul-backup": "candidate",
+      "quay.io/protonetinc/soul-nginx": "candidate",
+      "quay.io/protonetinc/soul-protosync": "candidate",
+      "quay.io/protonetinc/soul-smb": "candidate"
+    }
+  }
+]
