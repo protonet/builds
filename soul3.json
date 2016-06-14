@@ -3,6 +3,36 @@
     "build": 1142,
     "codename": "Soul 3.0",
     "url": "https://support.protonet.info/news/soul-2-13/",
-    "published_at": "2016-05-25T08:13:57Z"
+    "published_at": "2016-05-25T08:13:57Z",
+    "images": {
+      "quay.io/experimentalplatform/skvs": "soul3",
+      "quay.io/experimentalplatform/ptw": "soul3",
+      "quay.io/experimentalplatform/afpd": "soul3",
+      "quay.io/experimentalplatform/http-proxy": "soul3",
+      "quay.io/experimentalplatform/hostname-avahi": "soul3",
+      "quay.io/experimentalplatform/hardware": "soul3",
+      "quay.io/experimentalplatform/systemd-proxy": "soul3",
+      "quay.io/experimentalplatform/smb": "soul3",
+      "quay.io/experimentalplatform/pulseaudio": "soul3",
+      "quay.io/experimentalplatform/haproxy": "soul3",
+      "quay.io/experimentalplatform/hostname-smb": "soul3",
+      "quay.io/experimentalplatform/hostapd": "soul3",
+      "quay.io/experimentalplatform/app-manager": "soul3",
+      "quay.io/experimentalplatform/central-gateway": "soul3",
+      "quay.io/experimentalplatform/dnsmasq": "soul3",
+      "quay.io/experimentalplatform/dokku": "soul3",
+      "quay.io/experimentalplatform/frontend": "soul3",
+      "quay.io/experimentalplatform/monitoring": "soul3",
+      "quay.io/experimentalplatform/configure": "soul3",
+      "quay.io/experimentalplatform/mysql": "soul3",
+      "quay.io/experimentalplatform/elasticsearch": "soul3",
+      "quay.io/experimentalplatform/redis": "soul3",
+      "quay.io/experimentalplatform/rabbitmq": "soul3",
+      "quay.io/protonetinc/german-shepherd": "soul3",
+      "quay.io/protonetinc/soul-backup": "soul3",
+      "quay.io/protonetinc/soul-nginx": "soul3",
+      "quay.io/protonetinc/soul-protosync": "soul3",
+      "quay.io/protonetinc/soul-smb": "soul3"
+    }
   }
 ]
