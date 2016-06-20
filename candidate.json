@@ -1,9 +1,9 @@
 [
   {
-    "build": 9000,
+    "build": 1257,
     "codename": "Candidate",
-    "url": "foobar",
-    "published_at": "2016-06-06T15:01:33Z",
+    "url": "https://support.protonet.info/news/soul-2-16/",
+    "published_at": "2016-06-20T15:19:13Z",
     "images": {
       "quay.io/experimentalplatform/skvs": "candidate",
       "quay.io/experimentalplatform/ptw": "candidate",
