@@ -1,0 +1,24 @@
+[
+  {
+    "build": 1267,
+    "codename": "Soul 3.0",
+    "url": "https://support.protonet.info/news/soul-2-16/",
+    "published_at": "2016-06-27T13:42:10Z",
+    "images": {
+      "quay.io/experimentalplatform/afpd": "2016-06-27-1342",
+      "quay.io/experimentalplatform/app-manager": "2016-06-27-1342",
+      "quay.io/experimentalplatform/central-gateway": "2016-06-27-1342",
+      "quay.io/experimentalplatform/configure": "2016-06-27-1342",
+      "quay.io/experimentalplatform/dnsmasq": "2016-06-27-1342",
+      "quay.io/experimentalplatform/dokku": "2016-06-27-1342",
+      "quay.io/experimentalplatform/elasticsearch": "2016-06-27-1342",
+      "quay.io/experimentalplatform/systemd-proxy": "2016-06-27-1342",
+      "quay.io/protonetinc/german-shepherd": "2016-06-27-1342",
+      "quay.io/protonetinc/soul-backup": "2016-06-27-1342",
+      "quay.io/protonetinc/soul-nginx": "2016-06-27-1342",
+      "quay.io/protonetinc/soul-protosync": "2016-06-27-1342",
+      "quay.io/protonetinc/soul-smb": "2016-06-27-1342",
+      "quay.io/asdasd/asdasd": "2016-06-27-1342",
+    }
+  }
+]
