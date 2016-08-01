@@ -28,6 +28,7 @@
       "quay.io/experimentalplatform/elasticsearch": "development",
       "quay.io/experimentalplatform/redis": "development",
       "quay.io/experimentalplatform/rabbitmq": "development",
+      "quay.io/experimentalplatform/ldap": "development",
       "quay.io/protonetinc/german-shepherd": "development",
       "quay.io/protonetinc/soul-backup": "development",
       "quay.io/protonetinc/soul-nginx": "development",
