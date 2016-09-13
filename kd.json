@@ -9,7 +9,7 @@
       "quay.io/experimentalplatform/app-manager": "2016-08-24-1402",
       "quay.io/experimentalplatform/central-gateway": "2016-08-24-1402",
       "quay.io/experimentalplatform/collectd": "2016-08-24-1402",
-      "quay.io/experimentalplatform/configure": "2016-08-24-1402",
+      "quay.io/experimentalplatform/configure": "2016-08-29-1453",
       "quay.io/experimentalplatform/dnsmasq": "2016-08-24-1402",
       "quay.io/experimentalplatform/dokku": "2016-08-24-1402",
       "quay.io/experimentalplatform/elasticsearch": "2016-08-24-1402",
