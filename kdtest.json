@@ -1,0 +1,38 @@
+[
+  {
+    "build": 1267,
+    "codename": "Soul 3.0",
+    "url": "https://support.protonet.info/news/soul-2-16/",
+    "published_at": "2016-06-27T13:42:10Z",
+    "images": {
+      "quay.io/experimentalplatform/afpd": "2016-06-27-1342",
+      "quay.io/experimentalplatform/app-manager": "2016-06-27-1342",
+      "quay.io/experimentalplatform/central-gateway": "2016-06-27-1342",
+      "quay.io/experimentalplatform/configure": "2016-06-27-1342",
+      "quay.io/experimentalplatform/dnsmasq": "2016-06-27-1342",
+      "quay.io/experimentalplatform/dokku": "2016-06-27-1342",
+      "quay.io/experimentalplatform/elasticsearch": "2016-06-27-1342",
+      "quay.io/experimentalplatform/frontend": "2016-06-27-1342",
+      "quay.io/experimentalplatform/haproxy": "2016-06-27-1342",
+      "quay.io/experimentalplatform/hardware": "2016-06-27-1342",
+      "quay.io/experimentalplatform/hostapd": "2016-06-27-1342",
+      "quay.io/experimentalplatform/hostname-avahi": "2016-06-27-1342",
+      "quay.io/experimentalplatform/hostname-smb": "2016-06-27-1342",
+      "quay.io/experimentalplatform/http-proxy": "2016-06-27-1342",
+      "quay.io/experimentalplatform/monitoring": "2016-06-27-1342",
+      "quay.io/experimentalplatform/mysql": "2016-06-27-1342",
+      "quay.io/experimentalplatform/ptw": "2016-06-27-1342",
+      "quay.io/experimentalplatform/pulseaudio": "2016-06-27-1342",
+      "quay.io/experimentalplatform/rabbitmq": "2016-06-27-1342",
+      "quay.io/experimentalplatform/redis": "2016-06-27-1342",
+      "quay.io/experimentalplatform/skvs": "2016-06-27-1342",
+      "quay.io/experimentalplatform/smb": "2016-06-27-1342",
+      "quay.io/experimentalplatform/systemd-proxy": "2016-06-27-1342",
+      "quay.io/protonetinc/german-shepherd": "2016-06-27-1342",
+      "quay.io/protonetinc/soul-backup": "2016-06-27-1342",
+      "quay.io/protonetinc/soul-nginx": "2016-06-27-1342",
+      "quay.io/protonetinc/soul-protosync": "2016-06-27-1342",
+      "quay.io/protonetinc/soul-smb": "2016-06-27-1342"
+    }
+  }
+]
