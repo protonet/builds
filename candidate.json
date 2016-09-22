@@ -1,8 +1,8 @@
 [
   {
     "build": 9007,
-    "codename": "Development Alpha",
-    "url": "https://www.whisky.com/",
+    "codename": "Soul 2.17.2",
+    "url": "",
     "published_at": "2016-09-20T13:33:33Z",
     "images": {
       "quay.io/experimentalplatform/afpd": "2016-08-29-1453",
