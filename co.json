@@ -30,6 +30,7 @@
       "quay.io/experimentalplatform/rabbitmq": "development",
       "quay.io/experimentalplatform/ldap": "development",
       "quay.io/experimentalplatform/collectd": "development",
+      "quay.io/experimentalplatform/unoconv": "development",
       "quay.io/protonetinc/german-shepherd": "co-platform-office-preview",
       "quay.io/protonetinc/soul-backup": "development",
       "quay.io/protonetinc/soul-nginx": "development",
