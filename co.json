@@ -23,7 +23,7 @@
       "quay.io/experimentalplatform/dokku": "development",
       "quay.io/experimentalplatform/frontend": "development",
       "quay.io/experimentalplatform/monitoring": "development",
-      "quay.io/experimentalplatform/configure": "development",
+      "quay.io/experimentalplatform/configure": "co-platform-office-preview",
       "quay.io/experimentalplatform/mysql": "development",
       "quay.io/experimentalplatform/elasticsearch": "development",
       "quay.io/experimentalplatform/redis": "development",
