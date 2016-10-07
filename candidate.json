@@ -1,13 +1,13 @@
 [
   {
-    "build": 9009,
+    "build": 9010,
     "codename": "Release Candidate",
     "url": "http://blog.fefe.de",
-    "published_at": "2016-10-07T12:33:57Z",
+    "published_at": "2016-10-07T17:17:57Z",
     "images": {
       "quay.io/experimentalplatform/afpd": "2016-10-04-1633",
       "quay.io/experimentalplatform/app-manager": "2016-10-04-1633",
-      "quay.io/experimentalplatform/central-gateway": "2016-10-04-1633",
+      "quay.io/experimentalplatform/central-gateway": "2016-10-07-1715",
       "quay.io/experimentalplatform/collectd": "2016-10-04-1633",
       "quay.io/experimentalplatform/configure": "2016-10-07-1231",
       "quay.io/experimentalplatform/dnsmasq": "2016-10-04-1633",
