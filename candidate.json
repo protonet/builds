@@ -1,15 +1,15 @@
 [
   {
-    "build": 9011,
+    "build": 9012,
     "codename": "Release Candidate",
     "url": "http://blog.fefe.de",
-    "published_at": "2016-10-07T17:17:57Z",
+    "published_at": "2016-10-11T11:57:12Z",
     "images": {
       "quay.io/experimentalplatform/afpd": "2016-10-04-1633",
       "quay.io/experimentalplatform/app-manager": "2016-10-04-1633",
       "quay.io/experimentalplatform/central-gateway": "2016-10-07-1715",
       "quay.io/experimentalplatform/collectd": "2016-10-04-1633",
-      "quay.io/experimentalplatform/configure": "2016-10-07-1231",
+      "quay.io/experimentalplatform/configure": "2016-10-11-1650",
       "quay.io/experimentalplatform/dnsmasq": "2016-10-04-1633",
       "quay.io/experimentalplatform/dokku": "2016-10-04-1633",
       "quay.io/experimentalplatform/elasticsearch": "2016-10-04-1633",
@@ -31,7 +31,7 @@
       "quay.io/experimentalplatform/smb": "2016-10-04-1633",
       "quay.io/experimentalplatform/systemd-proxy": "2016-10-04-1633",
       "quay.io/experimentalplatform/unoconv": "2016-10-10-1341",
-      "quay.io/protonetinc/german-shepherd": "2016-10-07-1231",
+      "quay.io/protonetinc/german-shepherd": "2016-10-11-1650",
       "quay.io/protonetinc/soul-backup": "2016-10-04-1633",
       "quay.io/protonetinc/soul-nginx": "2016-10-04-1633",
       "quay.io/protonetinc/soul-owner": "2016-10-04-1633",
