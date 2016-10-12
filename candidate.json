@@ -1,6 +1,6 @@
 [
   {
-    "build": 9012,
+    "build": 9013,
     "codename": "Release Candidate",
     "url": "http://blog.fefe.de",
     "published_at": "2016-10-11T11:57:12Z",
@@ -31,7 +31,7 @@
       "quay.io/experimentalplatform/smb": "2016-10-04-1633",
       "quay.io/experimentalplatform/systemd-proxy": "2016-10-04-1633",
       "quay.io/experimentalplatform/unoconv": "2016-10-10-1341",
-      "quay.io/protonetinc/german-shepherd": "2016-10-11-1650",
+      "quay.io/protonetinc/german-shepherd": "2016-10-12-1425",
       "quay.io/protonetinc/soul-backup": "2016-10-04-1633",
       "quay.io/protonetinc/soul-nginx": "2016-10-04-1633",
       "quay.io/protonetinc/soul-owner": "2016-10-04-1633",
