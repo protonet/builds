@@ -1,6 +1,6 @@
 [
   {
-    "build": 1502,
+    "build": 1504,
     "codename": "Soul 2.18.1",
     "url": "https://support.protonet.info/news/soul-2-18/",
     "published_at": "2016-10-12T09:42:12Z",
@@ -31,7 +31,7 @@
       "quay.io/experimentalplatform/smb": "2016-10-04-1633",
       "quay.io/experimentalplatform/systemd-proxy": "2016-10-04-1633",
       "quay.io/experimentalplatform/unoconv": "2016-10-10-1341",
-      "quay.io/protonetinc/german-shepherd": "2016-10-11-1650",
+      "quay.io/protonetinc/german-shepherd": "2016-10-12-1425",
       "quay.io/protonetinc/soul-backup": "2016-10-04-1633",
       "quay.io/protonetinc/soul-nginx": "2016-10-04-1633",
       "quay.io/protonetinc/soul-owner": "2016-10-04-1633",
