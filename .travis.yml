@@ -1,0 +1,23 @@
+os: linux
+dist: trusty
+env:
+  - AWS_DEFAULT_REGION=us-west-2
+    VAGRANT_VER=1.8.5
+    AMI_CHANNEL=development
+cache:
+  directories:
+    - "$HOME/.vagrant.d/gems"
+before_install:
+  - 'yes | ssh-keygen -t rsa -N "" -f "/home/vagrant/id_rsa"'
+  - 'sudo apt-get -y update && sudo apt-get -y install openssh-client jq unzip && sudo rm -rf /var/lib/apt/lists/*'
+  - 'curl https://s3.amazonaws.com/aws-cli/awscli-bundle.zip -o awscli-bundle.zip'
+  - 'unzip awscli-bundle.zip'
+  - 'sudo ./awscli-bundle/install -i /usr/local/aws -b /usr/local/bin/aws'
+  - 'FILE=$(mktemp); curl -L https://releases.hashicorp.com/vagrant/${VAGRANT_VER}/vagrant_${VAGRANT_VER}_x86_64.deb > $FILE && sudo dpkg -i $FILE; rm $FILE'
+  - 'vagrant plugin install vagrant-aws'
+  - 'vagrant plugin install aws-sdk'
+  - 'vagrant box add dummy https://github.com/mitchellh/vagrant-aws/raw/master/dummy.box'
+script:
+  - './snapshot.sh'
+after_script:
+  - 'vagrant destroy -f'
