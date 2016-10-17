@@ -1,0 +1,27 @@
+#cloud-config
+
+users:
+  - name: root
+    passwd: $6$0f1Xl822UWa2sxRC$08OPTYpq5.8Cfc1Xm3LwcfraZrsDaUP.V5285VmhPdwSsfSw4VRBSY27qoofXLFMl4Uc0GvDJjlvH8IDYPeca0
+    groups:
+      - sudo
+      - docker
+      - wheel
+      - systemd-journal
+    ssh-authorized-keys:
+      - <%= IO.read("/home/vagrant/id_rsa.pub") %>
+
+coreos:
+  update:
+    reboot-strategy: off
+    server: "https://coreos-update.protorz.net/update"
+    group: "sop-stable"
+  units:
+    - name: "install-protonet.service"
+      drop-ins:
+        - name: 50-disable-install.conf
+          content: |
+            [Service]
+            ExecStartPre=
+            ExecStart=
+            ExecStop=
