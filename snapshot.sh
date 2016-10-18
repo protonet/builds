@@ -4,6 +4,14 @@ set -eu
 set -o pipefail
 
 CHANNEL=${CHANNEL:=""}
+DELETE_OLD=${DELETE_OLD:=""}
+
+delete_snapshots() {
+	local CHAN=$1
+
+	SNAPSHOT_IDS=$(aws ec2 describe-snapshots --filters Name=tag:Name,Values=zpool-snapshot-$CHAN-* | jq .Snapshots[].SnapshotId --raw-output)
+	xargs --no-run-if-empty -L1 aws ec2 delete-snapshot --snapshot-id <<< $SNAPSHOT_IDS
+}
 
 if [ -z "$CHANNEL" ]; then
 	#CHANNEL=$(git show --no-commit-id --pretty="" --name-only HEAD)
@@ -33,6 +41,10 @@ vagrant ssh -c 'sync'
 vagrant halt
 
 CHANNEL_WITHOUT_EXT=$(sed 's/\.json$//' <<< $CHANNEL)
+
+if [ $DELETE_OLD == "true" ]; then
+	delete_snapshots $CHANNEL_WITHOUT_EXT
+fi
 
 VOLUME_ID=$(aws ec2 describe-instances --instance-ids $(<.vagrant/machines/*/aws/id) | jq '.Reservations[0].Instances[0].BlockDeviceMappings[] | select(.DeviceName == "/dev/xvdb") | .Ebs.VolumeId' --raw-output)
 SNAPSHOT_ID=$(aws ec2 create-snapshot --volume-id $VOLUME_ID --description "SoP zpool snapshot, channel $CHANNEL_WITHOUT_EXT, build $BUILD_NO" | jq .SnapshotId --raw-output)
