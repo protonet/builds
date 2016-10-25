@@ -42,7 +42,7 @@ vagrant halt
 
 CHANNEL_WITHOUT_EXT=$(sed 's/\.json$//' <<< $CHANNEL)
 
-if [ $DELETE_OLD == "true" ]; then
+if [ "$DELETE_OLD" == "true" ]; then
 	delete_snapshots $CHANNEL_WITHOUT_EXT
 fi
 
