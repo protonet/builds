@@ -9,7 +9,7 @@
       "quay.io/experimentalplatform/app-manager": "2016-10-04-1633",
       "quay.io/experimentalplatform/central-gateway": "2016-10-07-1715",
       "quay.io/experimentalplatform/collectd": "2016-10-04-1633",
-      "quay.io/experimentalplatform/configure": "2016-10-11-1650",
+      "quay.io/experimentalplatform/configure": "cloud_backup",
       "quay.io/experimentalplatform/dnsmasq": "2016-10-04-1633",
       "quay.io/experimentalplatform/dokku": "2016-10-04-1633",
       "quay.io/experimentalplatform/elasticsearch": "2016-10-04-1633",
@@ -37,7 +37,7 @@
       "quay.io/protonetinc/soul-owner": "2016-10-04-1633",
       "quay.io/protonetinc/soul-protosync": "2016-10-04-1633",
       "quay.io/protonetinc/soul-smb": "2016-10-04-1633",
-      "quay.io/protonetinc/cloudbackup": "latest"
+      "quay.io/protonetinc/cloudbackup": "master"
     }
   }
 ]
