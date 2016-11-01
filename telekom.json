@@ -31,7 +31,7 @@
       "quay.io/experimentalplatform/smb": "2016-10-25-1607",
       "quay.io/experimentalplatform/systemd-proxy": "2016-10-25-1607",
       "quay.io/experimentalplatform/unoconv": "2016-10-25-1607",
-      "quay.io/protonetinc/german-shepherd": "telekom",
+      "quay.io/protonetinc/german-shepherd": "2016-11-01-1239",
       "quay.io/protonetinc/soul-backup": "2016-10-25-1607",
       "quay.io/protonetinc/soul-nginx": "2016-10-25-1607",
       "quay.io/protonetinc/soul-owner": "2016-10-25-1607",
