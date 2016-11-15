@@ -36,7 +36,8 @@
       "quay.io/protonetinc/soul-nginx": "development",
       "quay.io/protonetinc/soul-protosync": "development",
       "quay.io/protonetinc/soul-owner": "development",
-      "quay.io/protonetinc/soul-smb": "development"
+      "quay.io/protonetinc/soul-smb": "development",
+      "quay.io/protonetinc/cloudbackup": "master"
     }
   }
 ]
