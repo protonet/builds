@@ -31,6 +31,7 @@
       "quay.io/experimentalplatform/ldap": "development",
       "quay.io/experimentalplatform/collectd": "development",
       "quay.io/experimentalplatform/unoconv": "development",
+      "quay.io/experimentalplatform/facette": "development",
       "quay.io/protonetinc/german-shepherd": "development",
       "quay.io/protonetinc/soul-backup": "development",
       "quay.io/protonetinc/soul-nginx": "development",
