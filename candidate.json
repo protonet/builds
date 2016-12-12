@@ -1,9 +1,9 @@
 [
   {
-    "build": 9020,
-    "codename": "Forfiter RC3",
+    "build": 9021,
+    "codename": "Forfiter RC4",
     "url": "https://redditp.com/r/funny",
-    "published_at": "2016-12-08T10:36:10Z",
+    "published_at": "2016-12-12T15:10:10Z",
     "images": {
       "quay.io/experimentalplatform/afpd": "2016-12-08-1036",
       "quay.io/experimentalplatform/app-manager": "2016-12-08-1036",
@@ -33,7 +33,7 @@
       "quay.io/experimentalplatform/systemd-proxy": "2016-12-08-1036",
       "quay.io/experimentalplatform/unoconv": "2016-12-08-1036",
       "quay.io/protonetinc/cloudbackup": "2016-12-08-1036",
-      "quay.io/protonetinc/german-shepherd": "2016-12-08-1036",
+      "quay.io/protonetinc/german-shepherd": "2016-12-12-1510",
       "quay.io/protonetinc/soul-backup": "2016-12-08-1036",
       "quay.io/protonetinc/soul-nginx": "2016-12-08-1036",
       "quay.io/protonetinc/soul-owner": "2016-12-08-1036",
