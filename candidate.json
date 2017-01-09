@@ -1,9 +1,9 @@
 [
   {
-    "build": 9025,
-    "codename": "Geralt RC4",
+    "build": 9026,
+    "codename": "Geralt RC5",
     "url": "https://support.protonet.info/news/soul-2-20",
-    "published_at": "2017-01-05T14:42:39Z",
+    "published_at": "2017-01-09T14:04:39Z",
     "images": {
       "quay.io/experimentalplatform/afpd": "2017-01-05-1442",
       "quay.io/experimentalplatform/central-gateway": "2017-01-05-1442",
@@ -28,7 +28,7 @@
       "quay.io/experimentalplatform/systemd-proxy": "2017-01-05-1442",
       "quay.io/experimentalplatform/unoconv": "2017-01-05-1442",
       "quay.io/protonetinc/cloudbackup": "2017-01-05-1442",
-      "quay.io/protonetinc/german-shepherd": "2017-01-05-1442",
+      "quay.io/protonetinc/german-shepherd": "2017-01-09-1404",
       "quay.io/protonetinc/soul-backup": "2017-01-05-1442",
       "quay.io/protonetinc/soul-nginx": "2017-01-05-1442",
       "quay.io/protonetinc/soul-owner": "2017-01-05-1442",
