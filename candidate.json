@@ -8,7 +8,7 @@
       "quay.io/experimentalplatform/afpd": "2017-01-05-1442",
       "quay.io/experimentalplatform/central-gateway": "2017-01-05-1442",
       "quay.io/experimentalplatform/collectd": "2017-01-05-1442",
-      "quay.io/experimentalplatform/configure": "2017-01-05-1442",
+      "quay.io/experimentalplatform/configure": "2017-01-10-1327",
       "quay.io/experimentalplatform/dnsmasq": "2017-01-05-1442",
       "quay.io/experimentalplatform/elasticsearch": "2017-01-05-1442",
       "quay.io/experimentalplatform/facette": "2017-01-05-1442",
