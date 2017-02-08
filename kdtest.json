@@ -9,7 +9,7 @@
       "quay.io/experimentalplatform/app-manager": "development",
       "quay.io/experimentalplatform/central-gateway": "development",
       "quay.io/experimentalplatform/collectd": "development",
-      "quay.io/experimentalplatform/configure": "kd-set-status",
+      "quay.io/experimentalplatform/configure": "kd-preinstall-platconf",
       "quay.io/experimentalplatform/dnsmasq": "development",
       "quay.io/experimentalplatform/dokku": "development",
       "quay.io/experimentalplatform/elasticsearch": "development",
