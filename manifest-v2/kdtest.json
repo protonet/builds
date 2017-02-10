@@ -1,0 +1,163 @@
+{
+	"build": 1499,
+	"codename": "Soul 2.17",
+	"url": "https://support.protonet.info/news/soul-2-17/",
+	"published_at": "2016-08-29T14:53:06Z",
+	"images": [
+		{
+			"name": "quay.io/experimentalplatform/afpd",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/app-manager",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/central-gateway",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/collectd",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/configure",
+			"tag": "kd-preinstall-platconf",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/dnsmasq",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/dokku",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/elasticsearch",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/frontend",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/haproxy",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/hardware",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/hostapd",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/hostname-avahi",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/hostname-smb",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/http-proxy",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/ldap",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/monitoring",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/mysql",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/ptw",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/pulseaudio",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/rabbitmq",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/redis",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/skvs",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/smb",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/systemd-proxy",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/protonetinc/german-shepherd",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/protonetinc/soul-backup",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/protonetinc/soul-nginx",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/protonetinc/soul-owner",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/protonetinc/soul-protosync",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/protonetinc/soul-smb",
+			"tag": "development",
+			"pre_download": true
+		}
+	]
+}
