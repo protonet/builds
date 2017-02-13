@@ -158,6 +158,21 @@
 			"name": "quay.io/protonetinc/soul-smb",
 			"tag": "development",
 			"pre_download": true
+		},
+		{
+			"name": "quay.io/protonetinc/cloudbackup",
+			"tag": "2017-01-05-1442",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/facette",
+			"tag": "development",
+			"pre_download": true
+		},
+		{
+			"name": "quay.io/experimentalplatform/unoconv",
+			"tag": "development",
+			"pre_download": true
 		}
 	]
 }
