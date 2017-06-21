@@ -12,7 +12,6 @@
       "quay.io/experimentalplatform/hostname-avahi": "development",
       "quay.io/experimentalplatform/hardware": "development",
       "quay.io/experimentalplatform/systemd-proxy": "development",
-      "quay.io/experimentalplatform/smb": "development",
       "quay.io/experimentalplatform/haproxy": "development",
       "quay.io/experimentalplatform/hostname-smb": "development",
       "quay.io/experimentalplatform/hostapd": "development",
