@@ -23,6 +23,8 @@
       "quay.io/experimentalplatform/rabbitmq": "2017-06-22-1401",
       "quay.io/experimentalplatform/redis": "2017-06-22-1401",
       "quay.io/experimentalplatform/skvs": "2017-06-22-1401",
+      "quay.io/experimentalplatform/smb": "2017-06-22-1401",
+      "quay.io/experimentalplatform/hostname-smb": "2017-06-22-1401",
       "quay.io/experimentalplatform/systemd-proxy": "2017-06-22-1401",
       "quay.io/experimentalplatform/unoconv": "2017-06-22-1401",
       "quay.io/protonetinc/cloudbackup": "2017-06-22-1401",
