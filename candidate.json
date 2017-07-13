@@ -2,7 +2,7 @@
   {
     "build": 9033,
     "codename": "SAMBA_UPDATE",
-    "url": "www.example.com",
+    "url": "https://support.protonet.info/news/soul-2-20-4/",
     "published_at": "2017-06-22T14:58:09Z",
     "images": {
       "quay.io/experimentalplatform/afpd": "2017-06-22-1421",
